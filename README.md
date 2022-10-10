@@ -2,7 +2,7 @@ Olá, Mundo!
 
 Sou o Fernando Motta e estou aqui para testar meus conhecimentos em C# de diversas formas, seja com Apps em Winforms, Web ou Jogos Unity.
 
-Este é o meu repositório, então espero que com ele eu consiga demonstrar o conhecimento atual de programação que possuo para participar de novas oportunidades!
+Este é o meu repositório, então espero que com ele eu consiga demonstrar o meu conhecimento atual de programação para participar de novas oportunidades!
 
 < ============ // ============ >
 
